@@ -1,4 +1,4 @@
-# osnovi_progi
+# osnovi_programmirovania
 
 
 
